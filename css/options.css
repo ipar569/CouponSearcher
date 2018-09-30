@@ -1,0 +1,24 @@
+.background-img {
+    background: url(../resources/copyright_free_image.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+    font-family: "Bookman Old Style";
+    font-weight: bold;
+    color: #005cbf;
+}
+
+h4 {
+    font-family: Arial;
+    font-weight: normal;
+}
+
+.tab-pane{
+    margin: auto;
+    padding: 30px;
+    align-content: center;
+}
